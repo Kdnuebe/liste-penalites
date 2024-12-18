@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "penalites": "Retard de livraison",
+    "description": "Pénalité appliquée en cas de dépassement du délai de livraison contractuel.",
+    "montant": 100
+  },
+  {
+    "id": 2,
+    "penalites": "Non-conformité du produit",
+    "description": "Pénalité en cas de produit non conforme aux spécifications ou normes requises.",
+    "montant": 200
+  },
+  {
+    "id": 3,
+    "penalites": "Absence de documents obligatoires",
+    "description": "Pénalité appliquée si des documents administratifs ou légaux manquent au dossier.",
+    "montant": 50
+  }
+]
